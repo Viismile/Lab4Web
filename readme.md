@@ -15,7 +15,7 @@ Kemudian tambahkan deklarasi CSS pada `<head>` untuk membuat float element.
 Mengatur <b>clearfix</b> element menggunakan property `clear`.
 ![SS1-3](https://user-images.githubusercontent.com/56240078/115169119-5d693e80-a0e7-11eb-9b06-2af59b0e4d20.jpg)
 
-Saya mencoba mengganti nilai `clear` dengan nilai lainnya (`left, both, right`), namun saat saya mencoba, yang tampak berbeda hanya nilai `right` dimana element `Div 4` menjadi sebaris dengan element div lainnya, sedangkan nilai `left dan both` element `Div 4` terletak dibawah div yang lain
+Saya mencoba mengganti nilai `clear` dengan nilai lainnya (`left, both, right`), namun saat saya mencoba, yang tampak berbeda hanya nilai `right` dimana element `Div 4` menjadi sebaris dengan element div lainnya, sedangkan nilai `left dan both` element `Div 4` terletak dibawah div yang lain.
 ![SS1-4](https://user-images.githubusercontent.com/56240078/115169692-f056a880-a0e8-11eb-9847-4db9da47f0b2.jpg)
 ^ property `clear` dengan nilai `right`.
 
