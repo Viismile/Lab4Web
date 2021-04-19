@@ -108,8 +108,9 @@ button{
     padding: 10px 20px;
     margin-top: 8x;
 }
-button :hover{
-    opacity: 0,9;
+#kontak button.active,
+#kontak button:hover{
+    background: #6e6e6e;
 }
 
 /* main content */
@@ -233,4 +234,23 @@ box img {
 }
 .entry .right-img {
     float: right;
+}
+
+/* Footer Wrapper */
+#footer-wrapper{
+    background: white;
+    margin: 0;
+}
+#footer-wrapper p{
+    color: black;
+}
+.kiri{
+    float: left;
+    width: 400px;
+    padding: 10px;
+}
+.kanan{
+    float: left;
+    width: 500px;
+    padding: 10px;
 }
