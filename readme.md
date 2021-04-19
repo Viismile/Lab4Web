@@ -98,6 +98,7 @@ Untuk membuat content artikel, tambahkan kode berikut pada `section main`.
 ![SS6](https://user-images.githubusercontent.com/56240078/115169159-6f4ae180-a0e7-11eb-8d72-f88e7f4430bc.jpg)
 
 Kemudian tambahkan CSS.
+
 ![SS6-1](https://user-images.githubusercontent.com/56240078/115169163-7114a500-a0e7-11eb-970d-a2e9ead49d97.jpg)
 
 Hasilnya:
